@@ -7,6 +7,7 @@ PhotoView aims to help produce an easily usable implementation of a zooming Andr
 
 Add this in your root `build.gradle` file (**not** your module `build.gradle` file):
 
+
 ```gradle
 allprojects {
 	repositories {
